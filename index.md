@@ -17,7 +17,7 @@ The resources provided to you are:
 On Friday you will compile and analyze your results. We will dedicate 45 min at the end of the session for rapid-fire presentation. Each group will be given 3 minutes to present their results.
 
 ### People
-The materials were prepared by Felic Cormier, Daniel Duque, Javier Quetzalcoatl Toledo Marín and Marco Valente + Wojtek Fedorko. Most of us will be in the room during the tutorials. Please feel free to get any one of us for any questions.
+The materials were prepared by Felic Cormier, Daniel Duque, Javier Quetzalcoatl Toledo Marín, Marco Valente Zhengcheng Tao + Wojtek Fedorko. Most of us will be in the room during the tutorials. Please feel free to get any one of us for any questions.
 
 
 
